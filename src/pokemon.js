@@ -702,99 +702,207 @@ export const pokemon = [
 	info: 'https://pokemon.fandom.com/wiki/Seadra' 
 },
 {
-	id: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/008.png',
-	name: 'Wartortle',
-	type: 'Grass/Poison', 
-	info: 'https://pokemon.fandom.com/wiki/Wartortle'
+	id: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/118.png',
+	name: 'Goldeen',
+	type: 'Water', 
+	info: 'https://pokemon.fandom.com/wiki/Goldeen'
 },
 {
-	id: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/009.png',
-	name: 'Blastoise',
+	id: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/119.png',
+	name: 'Seaking',
 	type: 'Water',
-	info: 'https://pokemon.fandom.com/wiki/Blastoise'
+	info: 'https://pokemon.fandom.com/wiki/Seaking'
 },
 {
-	id: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/010.png',
-	name: 'Caterpie',
-	type: 'Bug',
-	info: 'https://pokemon.fandom.com/wiki/Caterpie' 
+	id: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/120.png',
+	name: 'Staryu',
+	type: 'Water',
+	info: 'https://pokemon.fandom.com/wiki/Staryu' 
 },
 {
-	id: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/011.png',
-	name: 'Metapod',
-	type: 'Bug', 
-	info: 'https://pokemon.fandom.com/wiki/Metapod'
+	id: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/121.png',
+	name: 'Starmie',
+	type: 'Psychic/Fairy', 
+	info: 'https://pokemon.fandom.com/wiki/Starmie'
 },
 {
-	id: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/012.png',
-	name: 'Butterfree',
-	type: 'Bug/Flying',
-	info: 'https://pokemon.fandom.com/wiki/Butterfree'
+	id: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/122.png',
+	name: 'Mr.Mime',
+	type: 'Psychic/Fairy',
+	info: 'https://pokemon.fandom.com/wiki/Mr._Mime'
 },
 {
-	id: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/002.png',
-	name: 'Ivysaur',
-	type: 'Grass/Poison', 
-	info: 'https://pokemon.fandom.com/wiki/Ivysaur'
+	id: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/123.png',
+	name: 'Scyther',
+	type: 'Bug/Flying', 
+	info: 'https://pokemon.fandom.com/wiki/Scyther'
 },
 {
-	id: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/003.png',
-	name: 'Venusaur',
-	type: 'Grass/Poison',
-	info: 'https://pokemon.fandom.com/wiki/Venusaur'
+	id: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/124.png',
+	name: 'Jynx',
+	type: 'Ice/Psychic',
+	info: 'https://pokemon.fandom.com/wiki/Jynx'
 },
 {
-	id: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/004.png',
-	name: 'Charmander',
-	type: 'Fire',
-	info: 'https://pokemon.fandom.com/wiki/Charmander' 
+	id: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/125.png',
+	name: 'Electabuzz',
+	type: 'Electric',
+	info: 'https://pokemon.fandom.com/wiki/Electabuzz' 
 },
 {
-	id: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/005.png',
-	name: 'Charmeleon',
+	id: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/126.png',
+	name: 'Magmar',
 	type: 'Fire', 
-	info: 'https://pokemon.fandom.com/wiki/Charmeleon'
+	info: 'https://pokemon.fandom.com/wiki/Magmar'
 },
 {
-	id: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/006.png',
-	name: 'Charizard',
-	type: 'Fire/Flying',
-	info: 'https://pokemon.fandom.com/wiki/Charizard'
-},
-{
-	id: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/007.png',
-	name: 'Squirtle',
-	type: 'Water',
-	info: 'https://pokemon.fandom.com/wiki/Squirtle' 
-},
-{
-	id: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/008.png',
-	name: 'Wartortle',
-	type: 'Grass/Poison', 
-	info: 'https://pokemon.fandom.com/wiki/Wartortle'
-},
-{
-	id: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/009.png',
-	name: 'Blastoise',
-	type: 'Water',
-	info: 'https://pokemon.fandom.com/wiki/Blastoise'
-},
-{
-	id: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/010.png',
-	name: 'Caterpie',
+	id: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/127.png',
+	name: 'Pinsir',
 	type: 'Bug',
-	info: 'https://pokemon.fandom.com/wiki/Caterpie' 
+	info: 'https://pokemon.fandom.com/wiki/Pinsir'
 },
 {
-	id: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/011.png',
-	name: 'Metapod',
-	type: 'Bug', 
-	info: 'https://pokemon.fandom.com/wiki/Metapod'
+	id: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/128.png',
+	name: 'Tauros',
+	type: 'Normal',
+	info: 'https://pokemon.fandom.com/wiki/Tauros' 
 },
 {
-	id: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/012.png',
-	name: 'Butterfree',
-	type: 'Bug/Flying',
-	info: 'https://pokemon.fandom.com/wiki/Butterfree'
+	id: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/129.png',
+	name: 'Magikarp',
+	type: 'Water', 
+	info: 'https://pokemon.fandom.com/wiki/Magikarp'
+},
+{
+	id: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/130.png',
+	name: 'Gyarados',
+	type: 'Water/Flying',
+	info: 'https://pokemon.fandom.com/wiki/Gyarados'
+},
+{
+	id: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/131.png',
+	name: 'Lapras',
+	type: 'Water/Ice',
+	info: 'https://pokemon.fandom.com/wiki/Lapras' 
+},
+{
+	id: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/132.png',
+	name: 'Ditto',
+	type: 'Normal', 
+	info: 'https://pokemon.fandom.com/wiki/Ditto'
+},
+{
+	id: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/133.png',
+	name: 'Eevee',
+	type: 'Normal',
+	info: 'https://pokemon.fandom.com/wiki/Eevee'
+},
+{
+	id: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/134.png',
+	name: 'Vaporeon',
+	type: 'Water',
+	info: 'https://pokemon.fandom.com/wiki/Vaporeon'
+},
+{
+	id: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/135.png',
+	name: 'Jolteon',
+	type: 'Electric',
+	info: 'https://pokemon.fandom.com/wiki/Jolteon' 
+},
+{
+	id: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/136.png',
+	name: 'Flareon',
+	type: 'Fire', 
+	info: 'https://pokemon.fandom.com/wiki/Flareon'
+},
+{
+	id: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/137.png',
+	name: 'Porygon',
+	type: 'Normal',
+	info: 'https://pokemon.fandom.com/wiki/Porygon'
+},
+{
+	id: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/138.png',
+	name: 'Omanyte',
+	type: 'Rock/Water', 
+	info: 'https://pokemon.fandom.com/wiki/Omanyte'
+},
+{
+	id: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/139.png',
+	name: 'Omastar',
+	type: 'Rock/Water',
+	info: 'https://pokemon.fandom.com/wiki/Omastar'
+},
+{
+	id: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/140.png',
+	name: 'Kabuto',
+	type: 'Rock/Water',
+	info: 'https://pokemon.fandom.com/wiki/Kabuto' 
+},
+{
+	id: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/141.png',
+	name: 'Kabutops',
+	type: 'Rock/Water', 
+	info: 'https://pokemon.fandom.com/wiki/Kabutops'
+},
+{
+	id: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/142.png',
+	name: 'Aerodactyl',
+	type: 'Rock/Flying',
+	info: 'https://pokemon.fandom.com/wiki/Aerodactyl'
+},
+{
+	id: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/143.png',
+	name: 'Snorlax',
+	type: 'Normal',
+	info: 'https://pokemon.fandom.com/wiki/Snorlax' 
+},
+{
+	id: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/144.png',
+	name: 'Articuno',
+	type: 'Ice/Flying', 
+	info: 'https://pokemon.fandom.com/wiki/Articuno'
+},
+{
+	id: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/145.png',
+	name: 'Zapdos',
+	type: 'Electric/Flying',
+	info: 'https://pokemon.fandom.com/wiki/Zapdos'
+},
+{
+	id: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/146.png',
+	name: 'Moltres',
+	type: 'Fire/Flying',
+	info: 'https://pokemon.fandom.com/wiki/Moltres' 
+},
+{
+	id: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/147.png',
+	name: 'Dratini',
+	type: 'Dragon', 
+	info: 'https://pokemon.fandom.com/wiki/Dratini'
+},
+{
+	id: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/148.png',
+	name: 'Dragonair',
+	type: 'Dragon',
+	info: 'https://pokemon.fandom.com/wiki/Dragonair'
+},
+{
+	id: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/149.png',
+	name: 'Dragonite',
+	type: 'Dragon/Flying', 
+	info: 'https://pokemon.fandom.com/wiki/Dragonite'
+},
+{
+	id: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/150.png',
+	name: 'Mewtwo',
+	type: 'Psychic',
+	info: 'https://pokemon.fandom.com/wiki/Mewtwo'
+},
+{
+	id: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/151.png',
+	name: 'Mew',
+	type: 'Psychic',
+	info: 'https://pokemon.fandom.com/wiki/Mew' 
 },]
 
