@@ -5,6 +5,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background: linear-gradient(to right, rgb(255, 247, 0), rgb(245, 0, 0));;
 }
 
 code {
@@ -12,7 +13,8 @@ code {
     monospace;
 }
 
-img {
-  width: 200px;
-  height: 200px;
+#mnstr {
+  width: 210px;
+  height: 210px;
 }
+

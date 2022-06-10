@@ -1,0 +1,42 @@
+ @font-face {
+    font-family: 'Pokemon Hollow Normal';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Pokemon Hollow Normal'), url('Pokemon Hollow.woff') format('woff');
+    }
+    
+
+    @font-face {
+    font-family: 'ZX Spectrum-7 Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('ZX Spectrum-7 Regular'), url('zx_spectrum-7.woff') format('woff');
+    }
+    
+
+    @font-face {
+    font-family: 'ZX Spectrum7 Bold Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('ZX Spectrum7 Bold Regular'), url('zx_spectrum-7_bold.woff') format('woff');
+    }
+
+   /*h2 {
+        font-family:  ZX Spectrum-7 Regular ;
+        font-size: 40px;
+    }
+
+
+
+   p {
+        font-family:  ZX Spectrum-7 Regular ;
+        font-size: 30px;
+    }
+
+   input {
+      font-family:  ZX Spectrum7 Bold Regular ;
+      font-size: 25px;
+   } */
+
+
+    

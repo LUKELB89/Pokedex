@@ -2,6 +2,10 @@ import React, { Component } from 'react';
 import Cardlist from './Cardlist';
 import { pokemon } from './pokemon';
 import SearchBox from './SearchBox';
+import './App.css';
+import logo from './logo.jpg';
+import Scroll from './Scroll';
+
 
 
 class App extends Component {
@@ -23,9 +27,12 @@ class App extends Component {
 		})
 		return (
 		<div className='tc'>
-			<h1>Pokémon</h1>
+			<img id='logo' src={logo} alt='pokemon' height={325} width={325} />
 			<SearchBox searchChange={this.onSearchChange}/>
-			<Cardlist pokemon={filteredPokemon} />
+			<br />
+			<scroll>
+				<Cardlist pokemon={filteredPokemon} />
+			</scroll>	
 		</div>
 	);
 	}
