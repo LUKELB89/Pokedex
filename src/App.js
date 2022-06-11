@@ -8,6 +8,7 @@ import Scroll from './Scroll';
 
 
 
+
 class App extends Component {
 	constructor() {
 		super()
@@ -29,10 +30,9 @@ class App extends Component {
 		<div className='tc'>
 			<img id='logo' src={logo} alt='pokemon' height={325} width={325} />
 			<SearchBox searchChange={this.onSearchChange}/>
-			<br />
-			<scroll>
+			<Scroll>
 				<Cardlist pokemon={filteredPokemon} />
-			</scroll>	
+			</Scroll>	
 		</div>
 	);
 	}
